@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <app-form />
+      <main role="main" class="main">
+          <app-form />
+      </main>
   </div>
 </template>
 
@@ -14,3 +16,9 @@ export default {
   }
 }
 </script>
+<style>
+    .main {
+        background: #f0f0f0;
+        min-height: 100vh;
+    }
+</style>
