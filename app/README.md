@@ -1,8 +1,12 @@
-# app
+# Demo - client-side form with [Vue JS](https://github.com/vuejs/vue), [Bulma](https://bulma.io/) and [Vuelidate](https://github.com/monterail/vuelidate)
 
 ## Project setup
 ```
-npm install or yarn global add @vue/cli then yarn
+npm install or yarn global add @vue/cli 
+```
+
+```
+yarn
 ```
 
 ### Compiles and hot-reloads for development
