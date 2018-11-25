@@ -18,7 +18,7 @@ export default {
 </script>
 <style>
     .main {
-        background: #f0f0f0;
+        background: #fafafa;
         min-height: 100vh;
     }
 </style>
